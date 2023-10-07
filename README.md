@@ -1,8 +1,10 @@
 # Linux-basic-commands-assignment
 
 ## Create a user with user group
+```
 sudo adduser devops
 sudo usermod -aG devops devops
+```
 
 ## Create two directories in user's home directory named os-concepts and ubuntu-is-the-best
 mkdir os-concepts ubuntu-is-the-best
